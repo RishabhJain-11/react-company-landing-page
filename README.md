@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+Healthy Brains is an app that is meant to solve medical issues using machine learning and also give impactfull insights about the medical condition of the patient.
+This app will delve into many areas such as 
+- Kidney Disease Detection
+- Heart Problems
+- Brain Tumor Classification
+- Liver Related Problems
+- Parkinsons Disease
+- etc.
+>>>>>>> 023402fbdaafdb35faf1685154a805212dfcf772
