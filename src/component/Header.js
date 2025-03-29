@@ -1,5 +1,5 @@
 import React from 'react'
-import { logo2 } from '../images'
+import { Qualitia3 } from '../images'
 
 export default function Header() {
   return (
@@ -7,8 +7,8 @@ export default function Header() {
       <nav className="relative max-w-7xl w-full mx-auto px-4 sm:flex sm:items-center sm:justify-between sm:px-6 lg:px-8" aria-label="Global">
         <div className="flex items-center justify-between">
         <div className="flex items-center"> {/* Adjust alignment as needed */}
-            <img src={logo2} alt="Logo" className="h-14 w-auto mr-0" /> {/* Adjust padding and size as needed */}
-            <a className="flex-none text-xl font-semibold dark:text-black" href="/" aria-label="Brand">Healthy Me</a>
+            <img src={Qualitia3} alt="Logo" className="h-14 w-auto mr-0" /> {/* Adjust padding and size as needed */}
+            <a className="flex-none text-xl font-semibold dark:text-black" href="/" aria-label="Brand">Qualitia Software</a>
           </div>
           <div className="sm:hidden">
             <button type="button" className="hs-collapse-toggle size-9 flex justify-center items-center text-sm font-semibold rounded-lg border border-gray-200 text-gray-800 hover:bg-gray-100 disabled:opacity-50 disabled:pointer-events-none dark:text-white dark:border-gray-700 dark:hover:bg-gray-700 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600" data-hs-collapse="/navbar-collapse-with-animation" aria-controls="navbar-collapse-with-animation" aria-label="Toggle navigation">
